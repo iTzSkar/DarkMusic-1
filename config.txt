@@ -1,6 +1,6 @@
 token=NDk1NjY4NzYzMTk1MjExNzg2.DpFxvQ.gdCSnEeV_diTLGk475snXkXa7Vg
 owner=495513603160408065
 prefix=Ax
-game= Server Cher
+game= Server Cher.
 stayinchannel=true
 songinstatus=true
