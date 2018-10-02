@@ -1,6 +1,6 @@
-token=NDk1NjY4NzYzMTk1MjExNzg2.DpFxvQ.gdCSnEeV_diTLGk475snXkXa7Vg
-owner=495513603160408065
-prefix=Ax
-game= Server Cher.
+token=NDk2Njk4MjU1MDExNDc5NTgy.DpUePg.wuBQhDNV4ZeUrZdsXP7ccfczGxk
+owner=465649311871533066
+prefix=2
+game=Type 2play
 stayinchannel=true
-songinstatus=true
+songinstatus=false
